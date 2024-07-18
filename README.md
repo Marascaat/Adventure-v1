@@ -3,7 +3,9 @@ Download the zip file, click on the file named "blu dee" and try to enjoy. numbe
 
 
 The following is something of a post-mortem on my first coding project, made around 2 years ago. 
+
   I started this project after watching the first few episodes of Brackeys' C# tutorial. Perhaps, if I continued past these episodes, I would have learned a more effective and visualy appealing method of storing dialog trees. As it stands, the project consists of a massive amount of While Loops within While Loops within While Loops. 
+  
   In the future, I plan to rewrite the story in a far more managable format, possible writing my own rudimentary framework specificaly designed for these kinds of games. Though the work I will have to put into this game is in no way proportional to the enjoyment I will be able to gain from it, it is a a story I want to tell, and this is the best format I can think of.
   But who knows? Maybe I just want to play a tabletop roleplaying game and this is my way of coping.
 
